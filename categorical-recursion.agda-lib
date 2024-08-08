@@ -1,0 +1,3 @@
+name: categorical-recursion
+include: .
+depend: standard-library agda-categories
