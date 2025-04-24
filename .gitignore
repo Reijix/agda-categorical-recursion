@@ -1,4 +1,5 @@
 *.agdai
 MAlonzo/**
 .direnv/
-public/
+agda-categorical-recursion/
+.vscode
